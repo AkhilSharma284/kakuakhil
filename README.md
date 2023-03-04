@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Web Development<br>🤝 I’m looking for help with developing a chrome extension that can find Playwright locators<br>🌱 I’m currently learning React js <br>💬 Ask me about HTML, javaScript, and CSS<br>⚡ I am a Freelancer
+🔭 I’m currently working on Web Development<br>🌱 I’m currently learning React js <br>💬 Ask me about HTML, javaScript, and CSS<br>⚡ I am a Freelancer
 
 
 ## 🌐 Socials:
